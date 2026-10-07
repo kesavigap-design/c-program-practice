@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{ 
+  int ab;\\int,flot,char,double
+  scan("%d"&a);\\55
+  printf("%d",a;\\55
+  }
+   
